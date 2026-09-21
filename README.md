@@ -1,1 +1,0 @@
-# slack-purchase-app
